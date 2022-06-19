@@ -1,0 +1,9 @@
+16:43:33.478 [main] INFO  resources.base - Intiating Login
+16:43:44.574 [main] INFO  resources.base - Placing an Order for 3 Rice Plates
+16:44:00.609 [main] INFO  resources.base - Verifying the order is placed successfully
+16:44:23.284 [main] INFO  resources.base - Intiating Login
+16:44:35.477 [main] INFO  resources.base - Placing an Order for 3 Rice Plates
+16:44:48.193 [main] INFO  resources.base - Verifying the order is placed successfully
+16:46:39.003 [main] INFO  resources.base - Intiating Login
+16:46:50.123 [main] INFO  resources.base - Placing an Order for 3 Rice Plates
+16:47:03.675 [main] INFO  resources.base - Verifying the order is placed successfully
